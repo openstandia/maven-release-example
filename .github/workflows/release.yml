@@ -46,6 +46,8 @@ jobs:
         run: |
           yarn global add @conveyal/maven-semantic-release@v4.5.0 semantic-release@15
           echo "::add-path::$(yarn global bin)"
+      - name: Test
+        run: mvn -B test
       - name: Release
         # maven-semantic-release requires "maven-settings.xml" in the workspace directory
         run: |
