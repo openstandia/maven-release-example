@@ -7,6 +7,7 @@ public class Main {
     }
 
     public String hello() {
+        // New Feature
         return "Hello!";
     }
 }
