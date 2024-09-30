@@ -7,6 +7,6 @@ public class MainTest {
 
     @Test
     public void hello() {
-        Assertions.assertEquals("Hello", new Main().hello());
+        Assertions.assertEquals("Hello!", new Main().hello());
     }
 }
