@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/openstandia/maven-release-example/compare/v1.1.0...v2.0.0) (2024-09-30)
+
+
+### Features
+
+* add new feature with breaking change ([fe37860](https://github.com/openstandia/maven-release-example/commit/fe37860916bd79356e208a531cd68e8f7bd65cdf))
+
+
+### BREAKING CHANGES
+
+* sample
+
 # [1.1.0](https://github.com/openstandia/maven-release-example/compare/v1.0.1...v1.1.0) (2024-09-30)
 
 
